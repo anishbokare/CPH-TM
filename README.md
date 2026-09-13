@@ -146,7 +146,7 @@ Mean Safety Intervention Latency:  9.2 ms
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/user/CPH-TM.git
+git clone https://github.com/anishbokare/CPH-TM.git
 cd CPH-TM
 
 # Install dependencies
